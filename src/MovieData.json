@@ -1,0 +1,122 @@
+[
+    {
+       "id": 1,
+       "name": "Pathaan",
+       "summary": "An Indian spy battles against the leader of a gang of mercenaries who have a heinous plot for his homeland.",
+       "rating": 9.3,
+       "category": "Action",
+       "posterURL": "https://filmfare.wwmindia.com/content/2022/dec/pathaan11669878737.jpg"
+    },
+    {
+       "id": 2,
+       "name": "Selfiee",
+       "summary": "Bollywood superstar Vijay Kumar needs to get a new driver's license from an RTO officer. However, a misunderstanding ..",
+       "rating": 9.2,
+       "category": "Drama",
+       "posterURL": "https://m.media-amazon.com/images/M/MV5BZmMwOGFkYzgtODY0ZC00ZDJiLWE5MDUtNWFjNWEyZWMxMTM1XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_.jpg"
+    },
+    {
+       "id": 3,
+       "name": "Brahmastra",
+       "summary": "A young man on the brink of falling in love gets his world turned upside down when he discovers he has the power to control...",
+       "rating": 9.0,
+       "category": "Action",
+       "posterURL": "https://cdn.bollywoodmdb.com/fit-in/movies/largethumb/2017/dragon/poster.jpg"
+    },
+    {
+       "id": 4,
+       "name": "Shehzada",
+       "summary": "Bantu is hated and neglected by his father Valmiki ever since he was a toddler. After growing up suffering neglect and criticism After growing up suffering ",
+       "rating": 8.8,
+       "category": "Comedy",
+       "posterURL": "https://m.media-amazon.com/images/M/MV5BYjZjZTA3YzMtZDY2My00MDRkLWE0OWItZGVkNzA2ODljNzZiXkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+       "id": 5,
+       "name": "Shershaah",
+       "summary": "Vikram Batra, a young man, dreams of becoming a soldier and falls in love with Dimple. Soon after his training, he climbs the military ranks and",
+       "rating": 8.9,
+       "category": "Action",
+       "posterURL": "https://m.media-amazon.com/images/M/MV5BMjk1NzcwMDUtNDU4ZC00MzlhLTkzZjAtM2MxMTRjZGE0ODdhXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+    },
+    {
+       "id": 6,
+       "name": "RRR",
+       "summary": "A fearless revolutionary and an officer in the British force, who once shared a deep bond, decide to join forces and chart out an inspirational",
+       "rating": 8.9,
+       "category": "Action",
+       "posterURL": "https://stat4.bollywoodhungama.in/wp-content/uploads/2019/03/RRR-2022-306x393.jpeg"
+    },
+    {
+       "id": 7,
+       "name": "Lagaan",
+       "summary": "In 1890s India, an arrogant British commander challenges the impoverished locals to a game of cricket, in exchange for tax relief. After initial resistance, they agree, but soon discover cricket is more than just a game.",
+       "rating": 8.1,
+       "category": "Drama",
+       "posterURL": "https://m.media-amazon.com/images/I/91ZWAeRiIVS._SY879_.jpg"
+    },
+    {
+       "id": 8,
+       "name": "Dilwale Dulhania Le Jayenge",
+       "summary": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
+       "rating": 8.2,
+       "category": "Romance",
+       "posterURL": "https://m.media-amazon.com/images/I/81RTfJFpnyL._SL1500_.jpg"
+    },
+    {
+       "id": 9,
+       "name": "Kabhi Khushi Kabhie Gham",
+       "summary": "Yashvardhan Raichand lives a very wealthy lifestyle along with his wife, Nandini, and two sons, Rahul and Rohan. While Rahul has been adopted, Yashvardhan and Nandini treat him as their own. When their son, Rohan, returns home after finishing his studies abroad, he meets the beautiful Pooja and falls in love with her. Yashvardhan decides to meet with the Sharma family, and finds out that they are middle-classed, unsophisticated, and will not be able to it into his family circle, as a result, he refuses to permit Rohan to marry Pooja. Shortly thereafter, Rohan returns to college, much to the chagrin of his parents, who already have chosen a bride for him. ",
+       "rating": 7.4,
+       "category": "Romance",
+       "posterURL": "https://www.deccanherald.com/sites/dh/files/styles/article_detail/public/article_images/2013/12/14/374554.jpg?itok=1cPghBHR"
+    },
+    {
+       "id": 10,
+       "name": "Dil Chahta Hai",
+       "summary": "Three inseparable childhood friends are just out of college. Nothing comes between them until they each fall in love, and their wildly different approaches to relationships creates tension.",
+       "rating": 8.1,
+       "category": "Drama",
+       "posterURL": "https://upload.wikimedia.org/wikipedia/en/d/db/Dil_Chahta_Hai.jpg"
+    },
+    {
+       "id": 11,
+       "name": "Dangal",
+       "summary": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+       "rating": 8.4,
+       "category": "Biography",
+       "posterURL": "https://upload.wikimedia.org/wikipedia/en/9/99/Dangal_Poster.jpg"
+    },
+    {
+       "id": 12,
+       "name": "3 Idiots",
+       "summary": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'.",
+       "rating": 8.4,
+       "category": "Comedy",
+       "posterURL": "https://m.media-amazon.com/images/I/91vseRrEEjL._SY450_.jpg"
+    },
+    {
+       "id": 13,
+       "name": "PK",
+       "summary": "An alien on Earth loses the only device he can use to communicate with his spaceship. His innocent nature and child-like questions force the country to evaluate the impact of religion on its people.",
+       "rating": 8.1,
+       "category": "Comedy",
+       "posterURL": "https://im.rediff.com/movies/2014/sep/17pk-poll1.jpg"
+    },
+    {
+       "id": 14,
+       "name": "Taare Zameen Par",
+       "summary": "An eight-year-old boy is thought to be lazy and a trouble-maker until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+       "rating": 8.4,
+       "category": "Drama",
+       "posterURL": "https://cdn.cinematerial.com/p/297x/preabpt7/taare-zameen-par-indian-movie-poster-md.jpg?v=1456255125"
+    },
+    {
+       "id": 15,
+       "name": "Kabir Singh",
+       "summary": "Kabir Singh, a senior medical student with a passion for old English motorcycles and football, is heartbroken when his girlfriend is forced to marry another man. Already struggling with anger issues, he falls into a self-destructive spiral.",
+       "rating": 8.4,
+       "category": "Drama",
+       "posterURL": "https://wallpapercave.com/wp/wp4401162.jpg"
+    }
+ ]
