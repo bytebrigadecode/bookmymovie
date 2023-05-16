@@ -1,12 +1,10 @@
 import React, { useState } from "react";
 import PropTypes from "prop-types";
-
+import { Outlet, Link } from "react-router-dom";
 export default function MovieList(props) {
   const [movieName, setMovieName] = useState(props.name);
 
-  const handelClick = () => {
-    setMovieName("Updated Moive name");
-  };
+ 
   return (
     <div className="col-md-4">
       <div className="card">
@@ -18,31 +16,26 @@ export default function MovieList(props) {
         />
         <div className="card-body">
           <h5 className="card-title">{movieName}</h5>
-          <h6>
+          
             <span
               class="badge badge-secondary"
-              style={{ backgroundColor: "red" }}
+              style={{ backgroundColor: "red",marginRight:"10px" }}
             >
-              {props.rating}
+              {props.category}
             </span>
-          </h6>
-
-          <h6>
+        
             <span
               class="badge badge-secondary"
               style={{ backgroundColor: "green" }}
             >
-              {props.category}
+              {props.rating}
             </span>
-          </h6>
-
+       
           <p className="card-text">
             {props.description.slice(0, 150) +
               (props.description.lenght > 150 ? "..." : ".")}{" "}
           </p>
-          <button type="button" className={props.btn} onClick={handelClick}>
-            Book Now
-          </button>
+          <Link to={`booking/${props.id}`}>Book now</Link>
         </div>
       </div>
     </div>
